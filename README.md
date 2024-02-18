@@ -1,5 +1,7 @@
 🛫 UÇUŞ RADARI: Havada Olanı Gözden Kaçırma! 🛬
 
+![](flight.gif)
+
 Uçuşlar dünyanın her yerinde sürekli olarak gerçekleşiyor ve onları izlemek bazen zor olabilir. Bu nedenle, size UÇUŞ RADARI'nı tanıtmak istiyorum! Bu, gerçek zamanlı uçuş takibi için geliştirilmiş son derece kullanışlı bir web uygulaması.
 
 🌐 Anlık Uçuş Sayısı: Başlık kısmında, API'nin bize sağladığı anlık uçuş sayısını göstermek için bir header bulunuyor. Böylece, havada neler olup bittiğini hızla görebilirsiniz.
